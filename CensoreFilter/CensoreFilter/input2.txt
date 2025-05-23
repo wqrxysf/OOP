@@ -1,0 +1,2 @@
+Режим вывода команд на экран (ECHO) отключен.
+Hello world How are you today? 
